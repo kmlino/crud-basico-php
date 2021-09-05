@@ -1,0 +1,32 @@
+*{
+    padding: 0; margin: 0;
+}
+html{
+    height: 100%;
+}
+body{
+    background-color: rgba(101, 155, 255, 0.61);
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: 100%;
+    margin: 0;
+}
+footer{
+    margin-top: auto;
+    text-align: center;
+    bottom: 0; 
+    left: 0;
+    position: relative;
+    font-family: cursive;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container img{
+    width: auto; 
+    height: auto; 
+    max-width: 48px; 
+    max-height: 80px;
+}
+
